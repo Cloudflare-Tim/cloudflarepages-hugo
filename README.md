@@ -14,6 +14,7 @@ visit this example here https://timsnotes.pages.dev/
    - Choose "Pages"
    - Select your cloned repository that you just made
    - Use these build settings:
+     - Framework Present: `Hugo`
      - Build command: `hugo`
      - Build directory: `public`
      - Environment variable: `HUGO_VERSION` : `0.139.3`
